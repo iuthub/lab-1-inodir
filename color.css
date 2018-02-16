@@ -1,10 +1,11 @@
 body{
 	background-color: #FF5733;
 	font-family: calibri;
+	
 }
 
 h1{
-	color: #8909F3  ;
+	color: #8909F3;
 }
 
 h2{
@@ -20,7 +21,7 @@ p{
 }
 
 #color1{
-	color: #FFFFFF;
+	color: #FFFF00;
 }
 
 li{
@@ -28,5 +29,5 @@ li{
 }
 
 a{
-	color: #86F10E;
+	color: #0059b3;
 }
